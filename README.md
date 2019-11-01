@@ -1,2 +1,2 @@
-# desafio-analytics-supervielle
-Desafío Analytics de Banco Supervielle
+# Desafío Analytics de Banco Supervielle
+Repositorio de datos para el desafío Analytics de Banco Supervielle S.A.
